@@ -22,6 +22,6 @@ Things for the future:
 
 ### Files to edit
 
-The main files you will need to edit are:
+The main file you need to edit is:
 
 > config.json

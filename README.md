@@ -7,10 +7,10 @@ Additional information or usage on this chrome plugin can be found here: https:/
 #### Wish list
 Things for the future: 
 
-> Acquire File(s)
-> Quickly Run CBLR Commands on endpoints
-> Reporting/Metrics
-> Scheduling a hunt
+- Acquire File(s)
+- Quickly Run CBLR Commands on endpoints
+- Reporting/Metrics
+- Scheduling a hunt
 
 #### Installation
 

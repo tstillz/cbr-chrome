@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+	<head>		
+		<title>CBR - Chrome</title>
+		
+		<!-- Scripts -->
+		<script src="js/jquery-2.0.3.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		
+		<!-- Cascading Style Sheets -->
+		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="css/custom.css" rel="stylesheet" media="screen">		
+	</head>
+	
+	<body>
+		    <script src="popup.js"></script>
+			<div class="row">
+			  <div class="col-xs-3">
+				<div class="input-group">
+				  <input class="form-control" title="For host searches, just enter in the hostname, IP address or mac address. For binary searching, use one of the prefixes: md5, name, internal" name="inputBox" id="inputBox">
+				  <span class="input-group-btn">
+					<button class="btn btn-default" type="submit" name="submitBtn" id="submitBtn">Go!</button>
+				  </span>
+				</div>
+			  </div>
+			</div>
+		
+			<div class="row">
+				<div id="results" name="results">
+			</div>
+		</div>
+	</body>
+</html>
